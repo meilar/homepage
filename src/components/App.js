@@ -22,7 +22,7 @@ function App() {
             />
             <Carousel.Caption>
               <h3>Full-Stack Web Developer</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <p>Apprentice developer with experience building sites in .Net Core framework, Node.js, and React.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -33,8 +33,8 @@ function App() {
             />
 
             <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h3>High-Caliber People Skills</h3>
+              <p></p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -45,8 +45,8 @@ function App() {
             />
 
             <Carousel.Caption>
-              <h3>Third slide label</h3>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+              <h3>Adaptable & Capable</h3>
+              <p></p>
             </Carousel.Caption>
           </Carousel.Item>
       </Carousel>

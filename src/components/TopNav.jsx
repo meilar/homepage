@@ -14,7 +14,8 @@ const TopNav = () => {
             <Nav.Link as={Link} to="/resume">Resume</Nav.Link>
             <Nav.Link href="/projects">Projects</Nav.Link>
             <Nav.Link href="/other">Other Work</Nav.Link>
-            <NavDropdown title="Social" id="basic-nav-dropdown">
+            <NavDropdown title="Contact" id="basic-nav-dropdown">
+              <NavDropdown.Item href="mailto:meilar@gmail?subject=Website%20Visitor">Email</NavDropdown.Item>
               <NavDropdown.Item href="https://www.github.com/meilar/">Github</NavDropdown.Item>
               <NavDropdown.Item href="https://www.linkedin.com/in/matthew-eilar/">LinkedIn</NavDropdown.Item>
               <NavDropdown.Divider />

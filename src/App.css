@@ -54,3 +54,21 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.white-thumb {
+    border: 0 none;
+    box-shadow: none;
+}
+
+.resume-heading {
+  text-align: right;
+}
+
+.row {
+  margin-bottom: 2%;
+}
+
+hr {
+  margin-top: 5%;
+  margin-bottom: 1%;
+}
