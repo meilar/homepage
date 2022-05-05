@@ -15,7 +15,7 @@ function Resume() {
   return (
     <Container>
       <TopNav />
-      <div className="main-content row">
+      {/* <div className="main-content row">
         <div className="col-md-1"></div>
         <div className="col-md-2"></div>
         <div className="col-md-8">
@@ -24,9 +24,8 @@ function Resume() {
           <hr />
         </div>
         <div className="col-md-1"></div>
-      </div>
-
-      <div className="row">
+      </div> */}
+      <div className="main-content row">
         <div className="col-md-2"></div>
         <div className="col-md-1"></div>
         <div className="col-md-8">
