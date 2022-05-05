@@ -7,12 +7,12 @@ import Bio from './components/Bio';
 import Resume from './components/Resume'; 
 import Projects from './components/Projects'; 
 import Other from './components/Other';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/bio" element={<Bio />} />
@@ -20,4 +20,4 @@ root.render(
       <Route path="/projects" element={<Projects />} />
       <Route path="/other" element={<Other />} />
     </Routes>
-  </BrowserRouter>);
+  </HashRouter>);
