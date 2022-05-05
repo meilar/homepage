@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homepage/static/css/main.610033e2.css",
-    "main.js": "/homepage/static/js/main.98464cd2.js",
+    "main.js": "/homepage/static/js/main.3deb0f46.js",
     "static/media/headshot_optimized.jpg": "/homepage/static/media/headshot_optimized.a893418dbcdcb775ee28.jpg",
     "static/media/eilar_computer.jpeg": "/homepage/static/media/eilar_computer.b9d7678165d3edaffda2.jpeg",
     "static/media/F43D6932-B65C-4226-81E6-D10F3E788CDC_1_105_c.jpeg": "/homepage/static/media/F43D6932-B65C-4226-81E6-D10F3E788CDC_1_105_c.2a035933075736dedf3a.jpeg",
@@ -14,10 +14,10 @@
     "static/media/sgslogo.svg": "/homepage/static/media/sgslogo.f9cce26e1a30d8850362da17ef7f56de.svg",
     "index.html": "/homepage/index.html",
     "main.610033e2.css.map": "/homepage/static/css/main.610033e2.css.map",
-    "main.98464cd2.js.map": "/homepage/static/js/main.98464cd2.js.map"
+    "main.3deb0f46.js.map": "/homepage/static/js/main.3deb0f46.js.map"
   },
   "entrypoints": [
     "static/css/main.610033e2.css",
-    "static/js/main.98464cd2.js"
+    "static/js/main.3deb0f46.js"
   ]
 }
