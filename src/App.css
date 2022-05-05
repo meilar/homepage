@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+#spacer-div {
+  margin-top: 5%;
+}
+
+.main-content {
+  margin-top: 2%;
+}
+
+.carousel-item {
+  height: 80vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
