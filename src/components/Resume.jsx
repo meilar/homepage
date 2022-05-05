@@ -19,8 +19,7 @@ function Resume() {
         <div className="col-md-1"></div>
         <div className="col-md-2"></div>
         <div className="col-md-8">
-          <p className="display-lead fw-bold">This is the comprehensive, 'kitchen sink' version of my resume.</p> 
-          <p className="display-lead fw-bold">To see a shorter tech-focused version, click the button below.</p>
+          <p className="display-lead fw-bold">This is the comprehensive, 'kitchen sink' version of my resume. To see a shorter tech-focused version, click the button below.</p>
           {toggleButton}
           <hr />
         </div>
@@ -32,15 +31,16 @@ function Resume() {
         <div className="col-md-1"></div>
         <div className="col-md-8">
           <h1 className="display-3">Skills</h1>
-          <Accordion>
+          <Accordion alwaysOpen>
             <Accordion.Item eventKey="0">
               <Accordion.Header>Computer Programming Fundamentals</Accordion.Header>
               <Accordion.Body>
               <h1 className="lead">Languages: JavaScript, C#, Swift</h1>
               <ul>
-                <li>Able to manipulate building blocks of code, including variables, functions, loops, control structures, and branching logic.</li>
-                <li>Familiar with the constraints and advantages of different programming paradigms, including imperative, functional, and object-oriented.</li>
-                <li>Can learn new skills and toolsets through tutorials and by reading reference documentation.</li>
+                <li>Able to manipulate building blocks of code, including variables, functions, loops, control structures, and branching logic</li>
+                <li>Familiar with the constraints and advantages of different programming paradigms, including imperative, functional, and object-oriented</li>
+                <li>Can learn new skills and toolsets through tutorials and by reading reference documentation</li>
+                <li>Solid foundation building interactive static websites with raw HTML, CSS, and vanilla JavaScript.</li>
               </ul>
               </Accordion.Body>
             </Accordion.Item>
@@ -48,9 +48,74 @@ function Resume() {
               <Accordion.Header>JavaScript</Accordion.Header>
               <Accordion.Body>
               <ul>
+                <li>Familiar with ES6 features, including arrow notation, class inheritance, and promises</li>
+                <li>DOM manipulation using jQuery library</li>
                 <li>Build projects with Node.js backend, manage packages and dependencies using <code>npm</code></li>
                 <li>Bundle HTML, CSS, and universal JavaScript with Webpack and Babel</li>
-                <li>Build websites with React library. Manage state with Redux </li>
+                <li>Build websites with React library, including custom component classes</li>
+                <li>Use Redux to manage state</li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="2">
+              <Accordion.Header>C#/.NET Core</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Build websites using Model-View-Controller design pattern.</li>
+                <li>Code-first database management using Entity Framework Core.</li>
+                <li>Build REST-ful APIs with ASP.NET Core Identity authentication and Authorization and automatic Swagger documentation</li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="3">
+              <Accordion.Header>Swift</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Beginner-level skill building and deploying iOS apps written in Swift.</li>
+                <li>Build out a UI using SwiftUI library, store application data in CloudKit.</li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="4">
+              <Accordion.Header>Front-End</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Custom styling using CSS</li>
+                <li>Use JS libraries including jQuery and Popper.js to add interactivity to websites.</li>
+                <li>Extensive use of Bootstrap styling library, including in React projects with <code>react-bootstrap</code></li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="5">
+              <Accordion.Header>Database/Back-End</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Build database queries in SQL and LINQ</li>
+                <li>Incorporate Firestore NoSQL database into React projects</li>
+                <li>ASP.NET Core Identity and Firebase authentication and authorization</li>
+                <li>API REST conventions, build APIs in .NET Core</li>
+                <li>Experience administrating a Linode hosted Wordpress server</li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="6">
+              <Accordion.Header>Development Tools</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Version control using Git and command line tools. Using Github to manage remote repositories, collaborate, and deploy static sites.</li>
+                <li>Use test-driven development principles. Incorporate automatic unit testing with tools like Jest, MSTest, and Github Actions.</li>
+                <li>Familiar with: VS Code (including Live Share), Atom, Chrome Developer Tools, MySql Workbench, Postman, Linux, Xcode</li>
+              </ul>
+              </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="7">
+              <Accordion.Header>People Skills</Accordion.Header>
+              <Accordion.Body>
+              <ul>
+                <li>Polished writing skills, experienced drafting copy and communications for high-visibilty channels</li>
+                <li>Mentorship, training, and process implementation</li>
+                <li>High EQ developed through experience providing empathetic service to a diverse group of customers, clients, and stakeholders</li>
+                <li>Experience developing team evaluation metrics, translating desired outcomes into performance indicators</li>
               </ul>
               </Accordion.Body>
             </Accordion.Item>
