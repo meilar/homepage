@@ -19,7 +19,7 @@ const TopNav = () => {
               <NavDropdown.Item href="https://www.github.com/meilar/">Github</NavDropdown.Item>
               <NavDropdown.Item href="https://www.linkedin.com/in/matthew-eilar/">LinkedIn</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="https://twitter.com/MtthwKrl">Twitter</NavDropdown.Item>
+              <NavDropdown.Item href="https://hachyderm.io/@Mtthwkrl?rel=me">Mastodon</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
