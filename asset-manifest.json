@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.610033e2.css",
+    "main.js": "/homepage/static/js/main.c7593d03.js",
+    "static/media/headshot_optimized.jpg": "/homepage/static/media/headshot_optimized.a893418dbcdcb775ee28.jpg",
+    "static/media/eilar_computer.jpeg": "/homepage/static/media/eilar_computer.b9d7678165d3edaffda2.jpeg",
+    "static/media/F43D6932-B65C-4226-81E6-D10F3E788CDC_1_105_c.jpeg": "/homepage/static/media/F43D6932-B65C-4226-81E6-D10F3E788CDC_1_105_c.2a035933075736dedf3a.jpeg",
+    "static/media/85D04523-CD9A-4D36-ACFA-5B3448F9373E_1_105_c.jpeg": "/homepage/static/media/85D04523-CD9A-4D36-ACFA-5B3448F9373E_1_105_c.036634ae6ed3a2b3601e.jpeg",
+    "static/media/pbo-logo.png": "/homepage/static/media/pbo-logo.8d655ab86ceaacda14f7.png",
+    "static/media/19FFAD00-01DE-4216-82D9-E627355BBA6C_1_105_c.jpeg": "/homepage/static/media/19FFAD00-01DE-4216-82D9-E627355BBA6C_1_105_c.6eed23f6066c5073d9d5.jpeg",
+    "static/media/the-thacher-school-logo.png": "/homepage/static/media/the-thacher-school-logo.e2a8961654224aacc850.png",
+    "static/media/reed-college-lockup-red.png": "/homepage/static/media/reed-college-lockup-red.7620d82f4495e1a58c14.png",
+    "static/media/bgclogo.jpeg": "/homepage/static/media/bgclogo.07fd8e521d404dcc9319.jpeg",
+    "static/media/sgslogo.svg": "/homepage/static/media/sgslogo.f9cce26e1a30d8850362da17ef7f56de.svg",
+    "index.html": "/homepage/index.html",
+    "main.610033e2.css.map": "/homepage/static/css/main.610033e2.css.map",
+    "main.c7593d03.js.map": "/homepage/static/js/main.c7593d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.610033e2.css",
+    "static/js/main.c7593d03.js"
+  ]
+}
